@@ -1,4 +1,0 @@
-datasciencescoursera
-====================
-
-Data Science Coursera 
